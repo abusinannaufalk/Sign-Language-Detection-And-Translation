@@ -51,21 +51,12 @@ sign-language-detection/
 ##  **Installation**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sign-language-detection.git
-cd sign-language-detection
+git clone https://github.com/abusinannaufalk/Sign-Language-Detection-And-Translation.git
+cd Sign-Language-Detection-And-Translation
 pip install -r requirements.txt
 ```
 
 ---
-
-
-```
-
-##  **Start Real-Time Detection**
-
-```bash
-python src/predict.py
-```
 
 ---
 
