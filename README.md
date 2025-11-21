@@ -92,7 +92,9 @@ pip install -r requirements.txt
 ##  **Contact**
 
 **Abu Sinan Naufal K**
+
 Email: [abusinannaufal.me@gmail.com](mailto:abusinannaufal.me@gmail.com)
+
 LinkedIn: linkedin.com/in/abu-
 
 
