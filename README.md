@@ -39,14 +39,13 @@ The system is lightweight, accurate, and performs gesture-to-text translation in
 ##  **Repository Structure**
 
 ```
+
 Sign-Language-Detection-And-Translation/
 │── src/
 │   ├── main.py                
 │   ├── datacollection.py      
 
 ```
-
----
 
 ##  **Installation**
 
@@ -55,8 +54,6 @@ git clone https://github.com/abusinannaufalk/Sign-Language-Detection-And-Transla
 cd Sign-Language-Detection-And-Translation
 pip install -r requirements.txt
 ```
-
----
 
 ---
 
@@ -77,8 +74,6 @@ pip install -r requirements.txt
 *  Effective for basic gesture recognition
 
 (Add your accuracy graph or screenshot here)
-
----
 
 ---
 
