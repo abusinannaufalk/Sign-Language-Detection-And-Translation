@@ -1,5 +1,5 @@
 
-# ** Real-Time Sign Language Detection**
+# **Real-Time Sign Language Detection**
 
 A deep-learning powered system that detects and classifies hand gestures in real time using **TensorFlow**, **OpenCV**, and **Computer Vision techniques**, converting sign language gestures into text.
 
