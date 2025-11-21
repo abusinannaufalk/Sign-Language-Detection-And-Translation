@@ -1,15 +1,11 @@
-Here is the **full, clean, and ready-to-upload GitHub README** for your **Sign Language Detection** project (Project 2).
-Just copy–paste into your **README.md** file.
 
----
-
-# **🤖 Real-Time Sign Language Detection**
+# ** Real-Time Sign Language Detection**
 
 A deep-learning powered system that detects and classifies hand gestures in real time using **TensorFlow**, **OpenCV**, and **Computer Vision techniques**, converting sign language gestures into text.
 
 ---
 
-## 🚀 **Overview**
+##  **Overview**
 
 This project aims to assist communication for hearing- and speech-impaired individuals by interpreting sign language gestures from a live camera feed.
 A **Convolutional Neural Network (CNN)** is trained on labeled gesture images, and OpenCV is used for real-time video capture and prediction.
@@ -18,18 +14,18 @@ The system is lightweight, accurate, and performs gesture-to-text translation in
 
 ---
 
-## 🧠 **Features**
+##  **Features**
 
-* 🔴 Real-time hand gesture detection
-* 🤝 CNN model trained on sign language dataset
-* 📷 Live camera video processing using OpenCV
-* 🧾 Gesture-to-text translation
-* ⚡ Fast and optimized for real-time performance
-* 🛠 Easy to extend with additional gestures
+*  Real-time hand gesture detection
+*  CNN model trained on sign language dataset
+*  Live camera video processing using OpenCV
+*  Gesture-to-text translation
+*  Fast and optimized for real-time performance
+*  Easy to extend with additional gestures
 
 ---
 
-## 🛠 **Tech Stack**
+##  **Tech Stack**
 
 * **Python**
 * **TensorFlow / Keras**
@@ -40,7 +36,7 @@ The system is lightweight, accurate, and performs gesture-to-text translation in
 
 ---
 
-## 📁 **Repository Structure**
+##  **Repository Structure**
 
 ```
 sign-language-detection/
@@ -68,7 +64,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ **How to Run**
+##  **How to Run**
 
 ### **1. Train the Model**
 
@@ -84,7 +80,7 @@ python src/predict.py
 
 ---
 
-## 🧪 **Model Workflow**
+##  **Model Workflow**
 
 1. **Collect Dataset** (images of hand gestures)
 2. **Preprocess** using OpenCV
@@ -94,17 +90,17 @@ python src/predict.py
 
 ---
 
-## 📊 **Results**
+##  **Results**
 
-* ✔️ High prediction accuracy
-* ✔️ Stable real-time performance (20–30 FPS)
-* ✔️ Effective for basic gesture recognition
+*  High prediction accuracy
+*  Stable real-time performance (20–30 FPS)
+*  Effective for basic gesture recognition
 
 (Add your accuracy graph or screenshot here)
 
 ---
 
-## 🎥 **Demo**
+##  **Demo**
 
 > Add GIF / images / video link here
 > Example:
@@ -113,12 +109,10 @@ python src/predict.py
 ---
 
 
-## 📬 **Contact**
+##  **Contact**
 
 **Abu Sinan Naufal K**
 Email: [abusinannaufal.me@gmail.com](mailto:abusinannaufal.me@gmail.com)
-LinkedIn: linkedin.com/in/abu-sinan-naufal-k
+LinkedIn: linkedin.com/in/abu-
 
----
 
-If you want, I can now generate **README for project 3 (SilentScribe)**.
