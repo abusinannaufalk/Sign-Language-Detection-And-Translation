@@ -40,16 +40,10 @@ The system is lightweight, accurate, and performs gesture-to-text translation in
 
 ```
 sign-language-detection/
-│── data/                    # Sign language dataset
 │── src/
-│   ├── model.py             # CNN model architecture
-│   ├── preprocess.py        # Data preprocessing
-│   ├── train.py             # Model training code
-│   ├── predict.py           # Real-time gesture detection
-│── notebooks/               # Jupyter notebooks (EDA, training)
-│── models/                  # Saved trained models (.h5)
-│── README.md
-│── requirements.txt
+│   ├── main.py                
+│   ├── datacollection.py      
+
 ```
 
 ---
@@ -64,15 +58,10 @@ pip install -r requirements.txt
 
 ---
 
-##  **How to Run**
 
-### **1. Train the Model**
-
-```bash
-python src/train.py
 ```
 
-### **2. Start Real-Time Detection**
+### ** Start Real-Time Detection**
 
 ```bash
 python src/predict.py
