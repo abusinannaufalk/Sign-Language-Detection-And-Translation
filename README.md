@@ -80,21 +80,13 @@ pip install -r requirements.txt
 
 ---
 
-##  **Demo**
-
-> Add GIF / images / video link here
-> Example:
-> ![Demo Image](demo/demo.png)
-
 ---
 
 
 ##  **Contact**
 
-**Abu Sinan Naufal K**
-
-Email: [abusinannaufal.me@gmail.com](mailto:abusinannaufal.me@gmail.com)
-
+**Abu Sinan Naufal K** <br>
+Email: [abusinannaufal.me@gmail.com](mailto:abusinannaufal.me@gmail.com) <br>
 LinkedIn: linkedin.com/in/abu-
 
 
