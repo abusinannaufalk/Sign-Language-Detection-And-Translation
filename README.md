@@ -39,7 +39,7 @@ The system is lightweight, accurate, and performs gesture-to-text translation in
 ##  **Repository Structure**
 
 ```
-sign-language-detection/
+Sign-Language-Detection-And-Translation/
 │── src/
 │   ├── main.py                
 │   ├── datacollection.py      
