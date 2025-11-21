@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ```
 
-### ** Start Real-Time Detection**
+### **Start Real-Time Detection**
 
 ```bash
 python src/predict.py
